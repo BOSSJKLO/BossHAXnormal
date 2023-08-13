@@ -483,7 +483,7 @@ EpicSaxGuy.TextWrapped = true
 EpicSaxGuy.MouseButton1Down:connect(function()
     -- Made by Boss
 				
-					loadstring(game:HttpGet("https://pastebin.com/raw/qBQBg4uN"))()
+					loadstring(game:HttpGet("https://pastebin.com/raw/MvF9uyT4"))()
 				end)
 Disc0.Name = "Disc0"
 Disc0.Parent = Frame
