@@ -28,7 +28,7 @@ Frame.Size = UDim2.new(0, 378, 0, 250)
 
 Name.Name = "Name"
 Name.Parent = Frame
-Name.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+Name.BackgroundColor3 = Color3.new(0.392157, 0.392157, 0.392157)
 Name.Size = UDim2.new(0, 378, 0, 25)
 Name.Font = Enum.Font.GothamBold
 Name.Text = "b00s_JKLO rc7 cracking hax"
@@ -39,7 +39,7 @@ Name.TextWrapped = true
 
 Credits.Name = "Credits"
 Credits.Parent = Frame
-Credits.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+Credits.BackgroundColor3 = Color3.new(0.392157, 0.392157, 0.392157)
 Credits.Position = UDim2.new(0, 0, 0.912, 0)
 Credits.Size = UDim2.new(0, 378, 0, 22)
 Credits.Font = Enum.Font.GothamBold
@@ -51,7 +51,7 @@ Credits.TextWrapped = true
 
 e1x1x1x1Message.Name = "e1x1x1x1Message"
 e1x1x1x1Message.Parent = Frame
-e1x1x1x1Message.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+e1x1x1x1Message.BackgroundColor3 = Color3.new(0.392157, 0.392157, 0.392157)
 e1x1x1x1Message.Position = UDim2.new(0.0714285746, 0, 0.216000006, 0)
 e1x1x1x1Message.Size = UDim2.new(0, 79, 0, 31)
 e1x1x1x1Message.Font = Enum.Font.GothamBold
@@ -108,7 +108,7 @@ e1x1x1x1Message.MouseButton1Down:connect(function()
 end)
 e1x1x1x1Music.Name = "e1x1x1x1Music"
 e1x1x1x1Music.Parent = Frame
-e1x1x1x1Music.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+e1x1x1x1Music.BackgroundColor3 = Color3.new(0.392157, 0.392157, 0.392157)
 e1x1x1x1Music.Position = UDim2.new(0.0714285746, 0, 0.436000019, 0)
 e1x1x1x1Music.Size = UDim2.new(0, 79, 0, 31)
 e1x1x1x1Music.Font = Enum.Font.GothamBold
@@ -184,7 +184,7 @@ e1x1x1x1Music.MouseButton1Down:connect(function()
 end)
 e1x1x1x1Laugh.Name = "e1x1x1x1Laugh"
 e1x1x1x1Laugh.Parent = Frame
-e1x1x1x1Laugh.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+e1x1x1x1Laugh.BackgroundColor3 = Color3.new(0.392157, 0.392157, 0.392157)
 e1x1x1x1Laugh.Position = UDim2.new(0.0714285746, 0, 0.648000002, 0)
 e1x1x1x1Laugh.Size = UDim2.new(0, 79, 0, 34)
 e1x1x1x1Laugh.Font = Enum.Font.GothamBold
@@ -210,7 +210,7 @@ Shutdown()
 end)
 DayToNight.Name = "DayToNight"
 DayToNight.Parent = Frame
-DayToNight.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+DayToNight.BackgroundColor3 = Color3.new(0.392157, 0.392157, 0.392157)
 DayToNight.Position = UDim2.new(0.388888896, 0, 0.216000006, 0)
 DayToNight.Size = UDim2.new(0, 83, 0, 31)
 DayToNight.Font = Enum.Font.GothamBold
@@ -449,7 +449,7 @@ end
 end)
 e666.Name = "e666"
 e666.Parent = Frame
-e666.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+e666.BackgroundColor3 = Color3.new(0.392157, 0.392157, 0.392157)
 e666.Position = UDim2.new(0.388888896, 0, 0.43599999, 0)
 e666.Size = UDim2.new(0, 83, 0, 31)
 e666.Font = Enum.Font.GothamBold
@@ -471,7 +471,7 @@ e666.MouseButton1Down:connect(function()
 end)
 EpicSaxGuy.Name = "EpicSaxGuy"
 EpicSaxGuy.Parent = Frame
-EpicSaxGuy.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+EpicSaxGuy.BackgroundColor3 = Color3.new(0.392157, 0.392157, 0.392157)
 EpicSaxGuy.Position = UDim2.new(0.388888896, 0, 0.648000002, 0)
 EpicSaxGuy.Size = UDim2.new(0, 83, 0, 34)
 EpicSaxGuy.Font = Enum.Font.GothamBold
@@ -487,7 +487,7 @@ EpicSaxGuy.MouseButton1Down:connect(function()
 				end)
 Disc0.Name = "Disc0"
 Disc0.Parent = Frame
-Disc0.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+Disc0.BackgroundColor3 = Color3.new(0.392157, 0.392157, 0.392157)
 Disc0.Position = UDim2.new(0.693121672, 0, 0.216000006, 0)
 Disc0.Size = UDim2.new(0, 89, 0, 31)
 Disc0.Font = Enum.Font.GothamBold
@@ -526,7 +526,7 @@ Disc0.MouseButton1Down:connect(function()
 end)
 e2006Theme.Name = "e2006Theme"
 e2006Theme.Parent = Frame
-e2006Theme.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+e2006Theme.BackgroundColor3 = Color3.new(0.392157, 0.392157, 0.392157)
 e2006Theme.Position = UDim2.new(0.693121672, 0, 0.43599999, 0)
 e2006Theme.Size = UDim2.new(0, 89, 0, 31)
 e2006Theme.Font = Enum.Font.GothamBold
@@ -548,7 +548,7 @@ wait(1)
 end)
 ForceField.Name = "ForceField"
 ForceField.Parent = Frame
-ForceField.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+ForceField.BackgroundColor3 = Color3.new(0.392157, 0.392157, 0.392157)
 ForceField.Position = UDim2.new(0.693121672, 0, 0.648000002, 0)
 ForceField.Size = UDim2.new(0, 89, 0, 34)
 ForceField.Font = Enum.Font.GothamBold
