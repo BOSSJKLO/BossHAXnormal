@@ -28,8 +28,6 @@ Frame.BorderSizePixel = 2
 Frame.Position = UDim2.new(0.382171214, 0, 0.328530252, 0)
 Frame.Size = UDim2.new(0, 378, 0, 250)
 Frame.Image = "http://www.roblox.com/asset/?id=13784335227"
-Frame.Active = true
-Frame.Draggable = true
 
 Name.Name = "Name"
 Name.Parent = Frame
